@@ -1,0 +1,201 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Los 10 mejores libros de finanzas personales en 2025</title>
+  <meta name="description" content="Descubre los 10 mejores libros de finanzas personales en 2025. Guía para ahorrar, invertir y mejorar tu educación financiera. Enlaces de Amazon y anuncios." />
+
+  <!-- Google AdSense (Auto Ads). Asegúrate de tener el sitio aprobado en AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3920656493872446" crossorigin="anonymous"></script>
+
+  <style>
+    :root{--bg:#0f172a;--card:#111827;--text:#e5e7eb;--muted:#94a3b8;--accent:#f59e0b;}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial;
+         background:linear-gradient(180deg,#0b1220, #111827); color:var(--text); line-height:1.65}
+    header{padding:32px 16px 8px}
+    .wrap{max-width:980px;margin:0 auto;padding:0 16px}
+    h1{font-size:clamp(1.6rem,2.8vw,2.4rem);margin:0 0 12px}
+    p.lead{color:var(--muted);margin:0 0 24px}
+    .note{font-size:.9rem;color:var(--muted)}
+    .grid{display:grid;gap:16px;margin:24px 0}
+    @media(min-width:720px){.grid{grid-template-columns:1fr 1fr}}
+    .card{background:rgba(17,24,39,.7); border:1px solid #1f2937; border-radius:18px; padding:18px}
+    .card h3{margin:0 0 8px;font-size:1.1rem}
+    .tags{font-size:.85rem;color:var(--muted);margin-bottom:8px}
+    .cta{display:inline-block;margin-top:10px;padding:10px 14px;border-radius:10px;
+         text-decoration:none;background:var(--accent);color:#111827;font-weight:700}
+    .cta:hover{filter:brightness(1.05)}
+    .ad-box{background:#0b1325;border:1px dashed #334155;border-radius:14px;padding:16px;margin:16px 0}
+    footer{border-top:1px solid #1f2937;margin-top:32px;padding:24px 0;color:var(--muted);font-size:.9rem}
+    a{color:#a7f3d0}
+  </style>
+</head>
+<body>
+  <header class="wrap">
+    <h1>Los 10 mejores libros de finanzas personales en 2025</h1>
+    <p class="lead">
+      Si buscas los <strong>mejores libros de finanzas personales en 2025</strong>, aquí tienes una selección
+      pensada para distintos tipos de lectores: principiantes, quienes quieren salir de deudas, invertir con cabeza
+      o alcanzar la independencia financiera. Cada recomendación incluye su enlace a Amazon con afiliado.
+    </p>
+
+    <!-- Bloque de anuncio superior (manual). Crea una unidad en AdSense y pega su data-ad-slot -->
+    <div class="ad-box">
+      <p class="note">Anuncio (coloca aquí tu unidad de anuncio manual de AdSense):</p>
+      <!-- EJEMPLO (actívalo cuando crees la unidad):
+      <ins class="adsbygoogle"
+           style="display:block" data-full-width-responsive="true"
+           data-ad-client="ca-pub-3920656493872446"
+           data-ad-slot="PON_AQUI_TU_AD_SLOT"
+           data-ad-format="auto"></ins>
+      <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+      -->
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="grid">
+
+      <!-- 1 -->
+      <article class="card">
+        <h3>Get Good with Money — Tiffany Aliche</h3>
+        <div class="tags">Para principiantes • Salir de deudas • Plan paso a paso</div>
+        <p>Ideal si empiezas desde cero y quieres un sistema práctico con hojas de trabajo para ordenar deudas, ahorro y metas.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=Get+Good+with+Money+Tiffany+Aliche&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 2 -->
+      <article class="card">
+        <h3>Retire Before Mom &amp; Dad — Rob Berger</h3>
+        <div class="tags">FIRE • Independencia financiera • Jubilación temprana</div>
+        <p>Para quienes buscan independencia financiera con estrategias claras de ahorro, indexación y control de gastos.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=Retire+Before+Mom+and+Dad+Rob+Berger&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 3 -->
+      <article class="card">
+        <h3>The Psychology of Money — Morgan Housel</h3>
+        <div class="tags">Comportamiento financiero • Sesgos • Decisiones</div>
+        <p>Si te interesa cómo las emociones y los sesgos afectan tus decisiones con el dinero, este es imprescindible.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=The+Psychology+of+Money+Morgan+Housel&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 4 -->
+      <article class="card">
+        <h3>Padre rico, padre pobre — Robert Kiyosaki</h3>
+        <div class="tags">Mentalidad • Emprendimiento • Activos vs pasivos</div>
+        <p>Clásico para cambiar la mentalidad sobre activos, pasivos y educación financiera orientada a crear riqueza.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=Padre+rico+padre+pobre+Robert+Kiyosaki&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 5 -->
+      <article class="card">
+        <h3>The Total Money Makeover — Dave Ramsey</h3>
+        <div class="tags">Deudas • Pasos simples • Fondo de emergencia</div>
+        <p>Un plan directo para salir de deudas con “baby steps”, construir un colchón y tomar control del presupuesto.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=The+Total+Money+Makeover+Dave+Ramsey&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 6 -->
+      <article class="card">
+        <h3>I Will Teach You to Be Rich — Ramit Sethi</h3>
+        <div class="tags">Automatización • Bancos • Inversión sencilla</div>
+        <p>Perfecto para jóvenes adultos: automatiza finanzas, optimiza tarjetas/bancos e invierte sin complicarte.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=I+Will+Teach+You+to+Be+Rich+Ramit+Sethi&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 7 -->
+      <article class="card">
+        <h3>The Index Card — Helaine Olen &amp; Harold Pollack</h3>
+        <div class="tags">Reglas simples • Eficacia • Largo plazo</div>
+        <p>La gestión del dinero destilada en pocas reglas claras y sencillas que funcionan para la mayoría.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=The+Index+Card+Olen+Pollack&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 8 -->
+      <article class="card">
+        <h3>El hombre más rico de Babilonia — George S. Clason</h3>
+        <div class="tags">Parábolas • Ahorro • Principios atemporales</div>
+        <p>Consejos eternos sobre ahorro, inversión y disciplina financiera mediante relatos ambientados en Babilonia.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=El+hombre+m%C3%A1s+rico+de+Babilonia+Clason&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 9 -->
+      <article class="card">
+        <h3>Finance for the People — Paco de Leon</h3>
+        <div class="tags">Accesible • Inclusivo • Hábitos</div>
+        <p>Lenguaje claro y cercano para perderle el miedo al dinero y construir hábitos sostenibles.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=Finance+for+the+People+Paco+de+Leon&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+      <!-- 10 -->
+      <article class="card">
+        <h3>Tu dinero o la vida — Vicki Robin &amp; Joe Dominguez</h3>
+        <div class="tags">Propósito • Minimalismo • Libertad</div>
+        <p>Replantea la relación tiempo–dinero: gasta con intención, reduce lo innecesario y alinea finanzas con valores.</p>
+        <a class="cta" target="_blank" rel="nofollow sponsored noopener"
+           href="https://www.amazon.es/s?k=Tu+dinero+o+la+vida+Vicki+Robin&tag=tusitio08e2-21">Ver en Amazon</a>
+      </article>
+
+    </section>
+
+    <!-- Anuncio intermedio (manual opcional) -->
+    <div class="ad-box">
+      <p class="note">Anuncio (segundo bloque manual opcional de AdSense):</p>
+      <!--
+      <ins class="adsbygoogle"
+           style="display:block" data-full-width-responsive="true"
+           data-ad-client="ca-pub-3920656493872446"
+           data-ad-slot="TU_OTRO_AD_SLOT"
+           data-ad-format="auto"></ins>
+      <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+      -->
+    </div>
+
+    <section class="card">
+      <h3>¿Qué libro elegir según tu perfil?</h3>
+      <ul>
+        <li><strong>Empiezo desde cero y tengo deudas:</strong> <em>Get Good with Money</em> o <em>The Total Money Makeover</em>.</li>
+        <li><strong>Quiero independencia financiera:</strong> <em>Retire Before Mom &amp; Dad</em>.</li>
+        <li><strong>Me interesa la psicología del dinero:</strong> <em>The Psychology of Money</em>.</li>
+        <li><strong>Busco mentalidad emprendedora:</strong> <em>Padre rico, padre pobre</em>.</li>
+        <li><strong>Prefiero reglas simples:</strong> <em>The Index Card</em>.</li>
+        <li><strong>Quiero inspiración atemporal:</strong> <em>El hombre más rico de Babilonia</em> o <em>Tu dinero o la vida</em>.</li>
+      </ul>
+    </section>
+
+    <!-- Anuncio inferior (manual opcional) -->
+    <div class="ad-box">
+      <p class="note">Anuncio (bloque inferior manual opcional de AdSense):</p>
+      <!--
+      <ins class="adsbygoogle"
+           style="display:block" data-full-width-responsive="true"
+           data-ad-client="ca-pub-3920656493872446"
+           data-ad-slot="TU_TERCER_AD_SLOT"
+           data-ad-format="auto"></ins>
+      <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+      -->
+    </div>
+
+    <p class="note">
+      Aviso de afiliación: como afiliado de Amazon, esta web podría obtener ingresos por compras que cumplan los requisitos.
+    </p>
+  </main>
+
+  <footer class="wrap">
+    <p>© 2025 • Guía de libros de finanzas personales. Optimizado para lectores en España y LATAM.</p>
+  </footer>
+</body>
+</html>
